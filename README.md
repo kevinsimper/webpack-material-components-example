@@ -1,5 +1,7 @@
 # Webpack Material.io example
 
+Example: http://webpack-material-components-example.surge.sh/
+
 I wanted to make a quick demo of how to setup webpack and material.io together.
 
 I first tried setting it up with Parcel.js but the out-of-box no-config did not

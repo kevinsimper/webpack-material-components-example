@@ -1,22 +1,23 @@
 {
-  "name": "parcel-js-material-components-example",
+  "name": "webpack-material-components-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinsimper/parcel-js-material-components-example.git"
+    "url": "git+https://github.com/kevinsimper/webpack-material-components-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kevinsimper/parcel-js-material-components-example/issues"
+    "url": "https://github.com/kevinsimper/webpack-material-components-example/issues"
   },
-  "homepage": "https://github.com/kevinsimper/parcel-js-material-components-example#readme",
+  "homepage": "https://github.com/kevinsimper/webpack-material-components-example#readme",
   "dependencies": {
     "@material/react-button": "^0.4.2",
     "react": "^16.5.2",
